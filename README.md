@@ -1,4 +1,4 @@
-# :construction: README customizado em construção ! :construction:
+# Zoo Functions - Trybe Project
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
@@ -11,3 +11,6 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
+In this project I wrote JavaScript functions for a Zoo management system. All my code is in the files in /src. 
+
+Done in April 2022 as part of the Trybe FullStack Web Development Course.
